@@ -3,7 +3,7 @@ description: Data, analytics, technology and practical projects
 url: "https://OwenTheAnalyst.github.io"
 baseurl: ""
 
-theme: jekyll-shell-theme
+# theme: jekyll-shell-theme
 
 author:
   name: Owen Miller
