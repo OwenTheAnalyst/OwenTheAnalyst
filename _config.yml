@@ -1,24 +1,12 @@
-title: "jekyll-shell-theme"
-tagline: "A jekyll theme that looks like a shell/terminal"
-description: "This is a preview of jekyll-shell-theme."
-github_username: tareqdandachi
-baseurl: "/jekyll-shell-theme"
-url: "https://tareqdandachi.github.io"
+title: Owen Miller
+description: Data, analytics, technology and practical projects
+url: "https://OwenTheAnalyst.github.io"
+baseurl: ""
 
-plugins:
-  - jemoji
-  - jekyll-sitemap
-  - jekyll-seo-tag
+theme: jekyll-shell-theme
 
-sass:
-  style: compressed
+author:
+  name: Owen Miller
+  email: your-email@example.com
 
-highlighter: rouge
-
-header_pages:
-  - index.md
-  - read-me.md
-  - preview.md
-
-# set the size of the text to 'large' or 'small', default is small
-font-size: small
+show_downloads: false
