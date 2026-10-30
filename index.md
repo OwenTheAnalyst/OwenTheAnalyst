@@ -4,10 +4,6 @@ layout: home
 
 # Owen Miller
 
-Welcome to my site.
+Welcome to my website.
 
-I work in data, analytics, governance and AI. This is where I share notes, projects and useful links.
-
-- [About](/about)
-- [Projects](/projects)
-- [Contact](mailto:your-email@example.com)
+Data, analytics, technology and practical projects.
